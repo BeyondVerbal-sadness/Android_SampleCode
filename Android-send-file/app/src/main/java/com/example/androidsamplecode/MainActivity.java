@@ -40,7 +40,7 @@ public class MainActivity extends Activity implements View.OnClickListener
 {
 	// sets activity members
 
-	private static final String RECORDING_URL = "https://angdetector.beyondverbal.com/v4/recording/";
+	private static final String RECORDING_URL = "https://saddetector.beyondverbal.com/v4/recording/";
 
 	private static final String Auth_URL = "https://token.beyondverbal.com/token";
 
